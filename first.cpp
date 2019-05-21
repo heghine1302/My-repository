@@ -77,7 +77,7 @@ public:
 void main()// int main(int argc, char *argv[]) ///Չեմ հասկանում խի ա ստեղ ու ինչ ա 
 {
 	
-	string n, f, t;
+	char n, f, t;
 	int g, G;
 
 	cout << "Name ---- " << endl;
